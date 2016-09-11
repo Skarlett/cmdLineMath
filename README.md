@@ -1,0 +1,2 @@
+# cmdLineMath
+shortest script ever
