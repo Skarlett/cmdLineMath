@@ -1,10 +1,9 @@
 # cmdLineMath
-shortest script ever
+Simple command line function that runs math equations from terminal using python's on board built-in math system.
 
 instructions:
 - 1: download files/git/zip
-- 2: move math.py to /usr/local/src ($ mv math.py /usr/local/src)
-- 3: mark math as Executable ($ chmod +x math)
-- 4: move math to /bin ($ mv math /bin)
+- 2: mark install.sh as executable, sudo chmod +x install.sh && ./install.sh and run with sudo, since it needs it to access those directories
+- 3: $ math 3*3
 
 now you have installed math, congrats.
